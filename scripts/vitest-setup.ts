@@ -26,3 +26,4 @@ vi.mock('electron', () => ({
     openPath: vi.fn(),
   },
 }));
+
